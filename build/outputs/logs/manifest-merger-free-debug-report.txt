@@ -1,0 +1,484 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:2:1-220:12
+	package
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.NFC
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:15:22-59
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:16:5-95
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:16:22-92
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:18:5-20:31
+	tools:node
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:20:9-28
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:19:9-59
+uses-sdk
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:22:5-71
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\Finnegan\git\Conversations\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] C:\Users\Finnegan\.android\build-cache\2958dce9906305927fef7de419256f1938961342\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\Finnegan\.android\build-cache\a199eb54cde14fe86e1899fce9ffa9f2a7a5600d\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\Finnegan\.android\build-cache\cfcdc7cf8e2f2c1d9b9441847eea320e6b31b768\output\AndroidManifest.xml:21:5-23:55
+MERGED from [de.timroes.android:EnhancedListView:0.3.4] C:\Users\Finnegan\.android\build-cache\7e0c9543204a47194289d317fc7daf62b47a92c4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\Finnegan\.android\build-cache\4682c6e44be6ab92d9c55b0418074f6b1656c878\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Finnegan\.android\build-cache\a280393943d96da78387e788e468e80b1fb3ec62\output\AndroidManifest.xml:15:5-42
+MERGED from [com.makeramen:roundedimageview:2.2.0] C:\Users\Finnegan\.android\build-cache\1af77e13e91274eab94e47ec184dca85c1385f97\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\Finnegan\.android\build-cache\f49dc7b14ab777470100e931b81b5c70e55d1092\output\AndroidManifest.xml:7:5-9:41
+MERGED from [net.ypresto.androidtranscoder:android-transcoder:0.2.0] C:\Users\Finnegan\.android\build-cache\07d8b5febf9857c164db7ab525301bfbef8dab34\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Finnegan\.android\build-cache\9ccab8ca0cd3dfeda57b3dceb7ea2b39daa6c4dd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Finnegan\.android\build-cache\8c22ad6834b93bf67cc96d40006fa94beff0600d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\4996fcef2ee94bd827f04de831f4d67f1667a459\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Finnegan\.android\build-cache\7b07d9442ddf4531bca9e00a8448158f4f72ff5b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Finnegan\.android\build-cache\34ba1f626e94dbd503dcc43c857003a7d1b27fd1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\245f9bbe596c9e8663f4c4122a6a5111e7291ecf\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:22:15-68
+	android:targetSdkVersion
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:25:5-218:19
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\Finnegan\git\Conversations\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [org.sufficientlysecure:openpgp-api:10.0] C:\Users\Finnegan\.android\build-cache\2958dce9906305927fef7de419256f1938961342\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v13:25.1.1] C:\Users\Finnegan\.android\build-cache\cfcdc7cf8e2f2c1d9b9441847eea320e6b31b768\output\AndroidManifest.xml:25:5-20
+MERGED from [de.timroes.android:EnhancedListView:0.3.4] C:\Users\Finnegan\.android\build-cache\7e0c9543204a47194289d317fc7daf62b47a92c4\output\AndroidManifest.xml:12:5-13:19
+MERGED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\Finnegan\.android\build-cache\4682c6e44be6ab92d9c55b0418074f6b1656c878\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Finnegan\.android\build-cache\a280393943d96da78387e788e468e80b1fb3ec62\output\AndroidManifest.xml:16:5-19
+MERGED from [org.whispersystems:curve25519-android:0.2.4] C:\Users\Finnegan\.android\build-cache\c92460fe56764dfbe52fb0b94d9489099e603d90\output\AndroidManifest.xml:5:5-20
+MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\Finnegan\.android\build-cache\f49dc7b14ab777470100e931b81b5c70e55d1092\output\AndroidManifest.xml:11:5-20
+MERGED from [net.ypresto.androidtranscoder:android-transcoder:0.2.0] C:\Users\Finnegan\.android\build-cache\07d8b5febf9857c164db7ab525301bfbef8dab34\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Finnegan\.android\build-cache\9ccab8ca0cd3dfeda57b3dceb7ea2b39daa6c4dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Finnegan\.android\build-cache\8c22ad6834b93bf67cc96d40006fa94beff0600d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\4996fcef2ee94bd827f04de831f4d67f1667a459\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Finnegan\.android\build-cache\7b07d9442ddf4531bca9e00a8448158f4f72ff5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Finnegan\.android\build-cache\34ba1f626e94dbd503dcc43c857003a7d1b27fd1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\245f9bbe596c9e8663f4c4122a6a5111e7291ecf\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:29:9-41
+		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\Finnegan\git\Conversations\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:18-56
+		REJECTED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\Finnegan\.android\build-cache\4682c6e44be6ab92d9c55b0418074f6b1656c878\output\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:28:9-45
+	android:networkSecurityConfig
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:26:9-76
+	android:theme
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:30:9-50
+	tools:replace
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:31:9-38
+service#eu.siacs.conversations.services.XmppConnectionService
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:32:18-64
+receiver#eu.siacs.conversations.services.EventReceiver
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:34:9-41:20
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:34:19-57
+intent-filter#android.intent.action.ACTION_SHUTDOWN+android.intent.action.BOOT_COMPLETED+android.media.RINGER_MODE_CHANGED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:35:13-40:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:36:17-79
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:36:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:37:25-76
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:38:17-80
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:38:25-77
+action#android.media.RINGER_MODE_CHANGED
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:39:25-73
+activity#eu.siacs.conversations.ui.ConversationActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:43:9-55:20
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:45:13-45
+	android:minHeight
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:48:13-38
+	android:minWidth
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:47:13-37
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:46:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:44:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:53:27-74
+activity#eu.siacs.conversations.ui.StartConversationActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:56:9-95:20
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:58:13-70
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:57:13-57
+intent-filter#android.intent.action.SENDTO+android.intent.category.DEFAULT
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:60:13-67:29
+action#android.intent.action.SENDTO
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:61:17-71
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:61:25-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:63:17-76
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:63:27-73
+data
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:65:17-47
+	android:scheme
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:65:23-44
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:68:13-75:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:69:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:72:17-78
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:72:27-75
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:76:13-82:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:77:25-74
+activity#eu.siacs.conversations.ui.WelcomeActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:96:9-99:46
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:98:13-45
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:99:13-44
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:97:13-47
+activity#eu.siacs.conversations.ui.MagicCreateActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:100:9-103:46
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:102:13-51
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:101:13-51
+activity#eu.siacs.conversations.ui.SetPresenceActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:104:9-109:70
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:107:13-52
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:108:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:109:13-67
+	android:configChanges
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:106:13-59
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:105:13-51
+activity#eu.siacs.conversations.ui.SettingsActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:110:9-112:63
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:112:13-60
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:111:13-48
+activity#eu.siacs.conversations.ui.ChooseContactActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:113:9-115:69
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:115:13-66
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:114:13-53
+activity#eu.siacs.conversations.ui.BlocklistActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:116:9-118:65
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:118:13-62
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:117:13-49
+activity#eu.siacs.conversations.ui.ChangePasswordActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:119:9-121:65
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:121:13-62
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:120:13-54
+activity#eu.siacs.conversations.ui.ManageAccountActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:122:9-125:47
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:124:13-67
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:125:13-44
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:123:13-53
+activity#eu.siacs.conversations.ui.EditAccountActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:126:9-129:70
+	android:launchMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:128:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:129:13-67
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:127:13-51
+activity#eu.siacs.conversations.ui.ConferenceDetailsActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:130:9-133:57
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:132:13-70
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:133:13-54
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:131:13-57
+activity#eu.siacs.conversations.ui.ContactDetailsActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:134:9-137:57
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:136:13-67
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:137:13-54
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:135:13-54
+activity#eu.siacs.conversations.ui.PublishProfilePictureActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:138:9-141:57
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:140:13-64
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:141:13-54
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:139:13-61
+activity#eu.siacs.conversations.ui.VerifyOTRActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:142:9-145:57
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:144:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:145:13-54
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:143:13-49
+activity#eu.siacs.conversations.ui.ShareWithActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:146:9-174:20
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:148:13-45
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:147:13-49
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:149:13-155:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:150:17-69
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:150:25-66
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:163:13-169:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:164:17-78
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:164:25-75
+meta-data#android.service.chooser.chooser_target_service
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:171:13-173:73
+	android:value
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:173:17-70
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:172:17-78
+activity#eu.siacs.conversations.ui.TrustKeysActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:175:9-178:63
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:177:13-61
+	android:windowSoftInputMode
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:178:13-60
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:176:13-49
+activity#de.duenndns.ssl.MemorizingActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:179:9-182:45
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\Finnegan\git\Conversations\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:75
+	android:theme
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:181:13-54
+		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\Finnegan\git\Conversations\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:14:13-72
+	tools:replace
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:182:13-42
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:180:13-62
+activity#eu.siacs.conversations.ui.AboutActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:183:9-190:20
+	android:label
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:185:13-57
+	android:parentActivityName
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:186:13-62
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:184:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:187:13-189:78
+	android:value
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:189:17-75
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:188:17-63
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:191:9-82
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:191:19-79
+service#eu.siacs.conversations.services.ExportLogsService
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:193:9-63
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:193:18-60
+service#eu.siacs.conversations.services.ContactChooserTargetService
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:194:9-200:19
+	android:permission
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:196:13-80
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:195:13-65
+intent-filter#android.service.chooser.ChooserTargetService
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:197:13-199:29
+action#android.service.chooser.ChooserTargetService
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:198:17-87
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:198:25-84
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:202:9-210:20
+	android:authorities
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:204:13-57
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:206:13-47
+	android:exported
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:205:13-37
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:203:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:207:13-209:54
+	android:resource
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:209:17-51
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:208:17-67
+provider#eu.siacs.conversations.services.BarcodeProvider
+ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:211:9-215:49
+	android:authorities
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:212:13-60
+		INJECTED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:215:13-47
+	android:exported
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:214:13-37
+	android:name
+		ADDED from C:\Users\Finnegan\git\Conversations\src\main\AndroidManifest.xml:213:13-53
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\Finnegan\.android\build-cache\b8804a5eda0ce6afc4e5273a3692d2a7d8faad3c\output\AndroidManifest.xml:46:22-80
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Finnegan\.android\build-cache\9ccab8ca0cd3dfeda57b3dceb7ea2b39daa6c4dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Finnegan\.android\build-cache\8c22ad6834b93bf67cc96d40006fa94beff0600d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\4996fcef2ee94bd827f04de831f4d67f1667a459\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Finnegan\.android\build-cache\7b07d9442ddf4531bca9e00a8448158f4f72ff5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Finnegan\.android\build-cache\34ba1f626e94dbd503dcc43c857003a7d1b27fd1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Finnegan\.android\build-cache\245f9bbe596c9e8663f4c4122a6a5111e7291ecf\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Finnegan\.android\build-cache\9ccab8ca0cd3dfeda57b3dceb7ea2b39daa6c4dd\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Finnegan\.android\build-cache\9ccab8ca0cd3dfeda57b3dceb7ea2b39daa6c4dd\output\AndroidManifest.xml:26:9-47

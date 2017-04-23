@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\account_image_border.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\account_image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\elv_popup_bg.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable\\elv_popup_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\es_slidingpane_shadow.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\es_slidingpane_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\elv_undo_btn_bg_pressed.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable\\elv_undo_btn_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\grey.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\switch_back_on.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\switch_back_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\elv_undo_btn_bg.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable\\elv_undo_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\md_back_off.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable\\md_back_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a199eb54cde14fe86e1899fce9ffa9f2a7a5600d\\output\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\actionbar_tab_indicator.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\actionbar_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\switch_back_off.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\switch_back_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\greybackground.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\greybackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\switch_thumb.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\elv_undo_btn_bg_focused.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable\\elv_undo_btn_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\md_thumb.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable\\md_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\infocard_border.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\infocard_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\infocard_border_dark.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\infocard_border_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\md_back_on.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable\\md_back_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\snackbar.xml",
+        "source": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\drawable\\snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a199eb54cde14fe86e1899fce9ffa9f2a7a5600d\\output\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]
