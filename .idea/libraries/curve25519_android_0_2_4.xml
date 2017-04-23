@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="curve25519-android-0.2.4">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/c92460fe56764dfbe52fb0b94d9489099e603d90/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/c92460fe56764dfbe52fb0b94d9489099e603d90/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0684596c6e31e0ce531e2a88750b105941ed4957/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0684596c6e31e0ce531e2a88750b105941ed4957/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

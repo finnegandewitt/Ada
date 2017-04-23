@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w384dp-v13\\values-w384dp-v13.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w384dp-v13\\values-w384dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\values-w384dp\\dimens.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-w384dp\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 164,
+                        "startOffset": 167,
                         "endColumn": 42,
-                        "endOffset": 205
+                        "endOffset": 208
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\values-w384dp\\dimens.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-w384dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 207,
+                        "startOffset": 211,
                         "endColumn": 45,
-                        "endOffset": 251
+                        "endOffset": 255
                     }
                 }
             }

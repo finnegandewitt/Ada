@@ -5,8 +5,560 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="552424ff-2bc5-467e-9470-803996737a3c" name="Default" comment="" />
+    <list default="true" id="552424ff-2bc5-467e-9470-803996737a3c" name="Default" comment="gradle upload&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v13_25_3_1.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v13_25_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-28-42-076.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-30-32-551.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-12-41-01-016.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-12-41-08-263.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-12-45-34-729.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-12-51-17-735.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-13-32-11-456.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-23-13-32-17-244.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/zip-cache/JF85ii4VkB1Srv0jfLuRze4Ct_Y=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/zip-cache/gPbWXWj+xqoPiC1ejzgg4yNn+uA=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesFreeDebug/zip-cache/JF85ii4VkB1Srv0jfLuRze4Ct_Y=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/android-integration-3.2.1_93804ecfdff8b65003a1ea793ecf106a6b339ca9/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/axolotl-java-1.3.4_811aae2949683e6783af6358a6caf2260cb76bfa/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/bcmail-jdk15on-1.52_1246bd93ee610861c899b0ab9be7c4a4f0df7310/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/bcpkix-jdk15on-1.52_82640638ce6b9a8594f1378162a7dac1aa3d93fd/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/bcprov-jdk15on-1.52_f56b64bb7f61506f5f8b9c59c977b3ea9bc33363/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_00494edcf119ae4fe08fbbf3683279c5da418092/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_2f1a3c1b65692eb60e13d074787b907d771d2a5c/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_4570363f72af3fbd5a5f8b91705cad34e4c16592/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_6c3e9b011480a5a46870d41514a245a82dfe010f/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_7c512ad3918d17f16742965d766d4d5f40777730/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_7f91f43a01bffaec43d31006f58a029e307228c0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_81449c7908e8c98225c6052768e1afa8db4f1a32/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_88bc3f3e20d8e181a6d10158f5ac1a1f90346b14/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_8db1e20900d397a1e15c656066aef2ac61692779/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_9fd6d23e063a3add907c0387cadbc9b66761e711/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_a51443447ece879fae757e4e2cef9ffbf4608342/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_c5e7f9b78d123ff59311de8b1ac71341ff330227/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_c9ffcf324e7fa7f80fd06758a8e2f5657776c083/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_ce638694cc0481c1fc1af319dded23bacb54754e/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_d307e8e0d734d9e697b070aabda4f7f070636336/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_dcbd87de02797379544c2651c7be7683ac5b6b51/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_e373d8f3e3121f1ace2c82f7f40749c1af54956e/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_fea5bf4e5c88db6f67bb3cfec594485bfc8e8e2e/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/core-3.2.1_499e1c205a06f764887033fef11388d482ae91ab/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/curve25519-java-0.2.4_26c5e6ea2e324c486c8ec01059e4eb43d0d507c1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/libidn-1.15_915983473098c84ecd4adcb552cf985e20d9c74d/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/library-2.4.0_d253255ce9528f068a44e3e600e6d8fdbf299b6d/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/minidns-0.1.7_827e52ac126586d9cfdcfde8559efe59a4c88d6a/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/org.otr4j-0.22_4addd2ffc5e89286fdb0505d585d5ffead4438b6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10/support-annotations-25.1.1_d65f94ef2ea16168ff2581345d5a4d14fd6331ca/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run-bootstrap_58163ed94afd2f63e88e3e3ea80b2f3d03fb8bfc/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run_3c3754e8458332f956528eccb99026c4eb1f0060/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MTMDecision.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager$InteractiveMemorizingTrustManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager$MemorizingHostnameVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager$NonInteractiveMemorizingHostnameVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager$NonInteractiveMemorizingTrustManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/extractJars/free/debug/folders/1/4/classes.jar-1794145686/de/duenndns/ssl/MemorizingTrustManager.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_libs_MemorizingTrustManager_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_libs_MemorizingTrustManager_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_libs_MemorizingTrustManager_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_libs_MemorizingTrustManager_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-free/debug.ir.ap_" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-resources/resources-free/debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-free-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-free-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/dep/dependencies.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_3.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_5.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_6.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_7.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/build/intermediates/split-apk/free/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/free/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/free/debug/jars/2/1f/main.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/Conversations-1.18.0-free-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/Conversations-1.18.0-free-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/EnhancedListView_0_3_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/EnhancedListView_0_3_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ShortcutBadger_1_1_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ShortcutBadger_1_1_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_crop_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_crop_1_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_transcoder_0_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_transcoder_0_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/axolotl_android_1_3_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/axolotl_android_1_3_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/curve25519_android_0_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/curve25519_android_0_2_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/flowlayout_0_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/flowlayout_0_4_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_2_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_2_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/openpgp_api_10_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/openpgp_api_10_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/roundedimageview_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/roundedimageview_2_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conversations.iml" afterPath="$PROJECT_DIR$/Conversations.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/free/debug/eu/siacs/conversations/test/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/free/debug/eu/siacs/conversations/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/free/debug/eu/siacs/conversations/BuildConfig.java" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/free/debug/eu/siacs/conversations/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-af.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-af.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-am.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-bg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-bn-rBD.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ca.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-cs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-da.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-el.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-en-rGB.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-en-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-es-rUS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-es.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-et-rEE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-eu-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-eu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-eu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fa-rIR.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fa-rIR.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fr-rCA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-fr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-gl-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-gl.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-gl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-hy-rAM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-id.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-id.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-in.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-is-rIS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-it.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-iw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ja.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ka-rGE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-kk-rKZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-km-rKH.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-kn-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ko.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ky-rKG.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-land.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-large-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lo-rLA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-lv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mk-rMK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ml-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mn-rMN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-mr-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ms-rMY.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-my-rMM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nb-rNO.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nb-rNO.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ne-rNP.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-nl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-no.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-no.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-port.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt-rBR.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt-rPT.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-pt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-qwerty.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-qwerty.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ro-rRO.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ro-rRO.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ru.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-si-rLK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-sw600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ta-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-te-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-th.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tr-rTR.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tr-rTR.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-tr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-uk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-ur-rPK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-uz-rUZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v17.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v19.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v19.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w360dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w384dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w384dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w480dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w500dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w500dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w585dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w585dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w720dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w945dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-w945dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-xlarge-land-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-xlarge-land-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-xlarge-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rCN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rHK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh-rTW.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zh.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values-zu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/anim.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/color.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xxxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-ldrtl-xxxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-v21.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable-xxxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-v19.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-v19.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-w945dp-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout-w945dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/menu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/xml.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/free/debug/single/xml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-af/values-af.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-af/values-af.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-am/values-am.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-am/values-am.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ar/values-ar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-bg/values-bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ca/values-ca.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-cs/values-cs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-da/values-da.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-da/values-da.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-de/values-de.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-de/values-de.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-el/values-el.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-el/values-el.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-es/values-es.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-es/values-es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-eu/values-eu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fa-rIR/values-fa-rIR.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fa-rIR/values-fa-rIR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fa/values-fa.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fi/values-fi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-fr/values-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-gl/values-gl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hi/values-hi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hr/values-hr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hu/values-hu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-id/values-id.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-id/values-id.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-in/values-in.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-in/values-in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-it/values-it.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-it/values-it.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-iw/values-iw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ja/values-ja.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ko/values-ko.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-land/values-land.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-land/values-land.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lt/values-lt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-lv/values-lv.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nb-rNO/values-nb-rNO.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nb-rNO/values-nb-rNO.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nb/values-nb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-nl/values-nl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-no/values-no.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-no/values-no.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pl/values-pl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-port/values-port.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-port/values-port.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-pt/values-pt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-qwerty/values-qwerty.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-qwerty/values-qwerty.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ro-rRO/values-ro-rRO.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ro-rRO/values-ro-rRO.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ro/values-ro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ru/values-ru.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sk/values-sk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sl/values-sl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sr/values-sr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sv/values-sv.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sw/values-sw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-th/values-th.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-th/values-th.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tl/values-tl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tr-rTR/values-tr-rTR.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tr-rTR/values-tr-rTR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-tr/values-tr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-uk/values-uk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v11/values-v11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v14/values-v14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v17/values-v17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v19/values-v19.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v19/values-v19.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v21/values-v21.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-vi/values-vi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w384dp-v13/values-w384dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w384dp-v13/values-w384dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w585dp-v13/values-w585dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w585dp-v13/values-w585dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w945dp-v13/values-w945dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w945dp-v13/values-w945dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zh/values-zh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-zu/values-zu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeFreeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageFreeDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesFreeDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesFreeDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesFreeDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageInstantRunResourcesFreeDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/dependencies/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/dependencies/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/manifest.crc" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/manifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_0/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_1/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_2/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_2/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_3/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_4/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_4/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_5/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_5/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_6/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_6/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_7/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_7/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_8/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_8/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_9/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/free/debug/slice_9/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifest/androidTest/free/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifest/androidTest/free/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/free/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/free/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/free/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/instant-run/free/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_fade_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_fade_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_in_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_in_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_out_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/abc_slide_out_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/elv_popup_hide.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/elv_popup_hide.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/elv_popup_show.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/anim/elv_popup_show.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_background_cache_hint_selector_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_background_cache_hint_selector_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_disable_only_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_disable_only_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_primary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_search_url_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_secondary_text_material_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/color/abc_secondary_text_material_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable-v21/crop__selectable_background.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable-v21/crop__selectable_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_btn_check_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_btn_radio_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_internal_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_cab_background_top_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_edit_text_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_item_background_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_item_background_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_list_selector_holo_light.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_switch_thumb_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_tab_indicator_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/abc_textfield_search_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/crop__selectable_background.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/crop__selectable_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/crop__texture.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/crop__texture.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_popup_bg.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_popup_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg_focused.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg_focused.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg_pressed.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/elv_undo_btn_bg_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_back_off.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_back_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_back_on.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_back_on.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_thumb.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/drawable/md_thumb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout-v11/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout-v11/abc_screen_content_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout-v19/elv_undo_popup.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout-v19/elv_undo_popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_title_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_up_container.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_mode_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_action_mode_close_item_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view_include.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view_include.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_expanded_menu_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_icon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_list_menu_item_radio.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_popup_menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_simple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_simple_overlay_action_mode.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_screen_toolbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_search_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/abc_simple_dropdown_hint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/crop__activity_crop.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/crop__activity_crop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/crop__layout_done_cancel.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/crop__layout_done_cancel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/elv_undo_popup.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/elv_undo_popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-af/values-af.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-af/values-af.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-am/values-am.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-am/values-am.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ar/values-ar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-bg/values-bg.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-bg/values-bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-bn-rBD/values-bn-rBD.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-bn-rBD/values-bn-rBD.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ca/values-ca.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ca/values-ca.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-cs/values-cs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-da/values-da.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-da/values-da.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-de/values-de.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-el/values-el.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-el/values-el.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-en-rGB/values-en-rGB.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-en-rGB/values-en-rGB.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-en-rIN/values-en-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-en-rIN/values-en-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-es-rUS/values-es-rUS.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-es-rUS/values-es-rUS.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-es/values-es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-et-rEE/values-et-rEE.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-et-rEE/values-et-rEE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-eu-rES/values-eu-rES.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-eu-rES/values-eu-rES.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-eu/values-eu.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-eu/values-eu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fa-rIR/values-fa-rIR.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fa-rIR/values-fa-rIR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fa/values-fa.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fa/values-fa.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fi/values-fi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fr-rCA/values-fr-rCA.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fr-rCA/values-fr-rCA.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-fr/values-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-gl-rES/values-gl-rES.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-gl-rES/values-gl-rES.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-gl/values-gl.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-gl/values-gl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hi/values-hi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hr/values-hr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hu/values-hu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hy-rAM/values-hy-rAM.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-hy-rAM/values-hy-rAM.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-id/values-id.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-id/values-id.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-in/values-in.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-in/values-in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-is-rIS/values-is-rIS.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-is-rIS/values-is-rIS.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-it/values-it.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-iw/values-iw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ja/values-ja.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ka-rGE/values-ka-rGE.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ka-rGE/values-ka-rGE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-kk-rKZ/values-kk-rKZ.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-kk-rKZ/values-kk-rKZ.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-km-rKH/values-km-rKH.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-km-rKH/values-km-rKH.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-kn-rIN/values-kn-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-kn-rIN/values-kn-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ko/values-ko.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ky-rKG/values-ky-rKG.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ky-rKG/values-ky-rKG.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-land/values-land.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-large-v4/values-large-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-large-v4/values-large-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lo-rLA/values-lo-rLA.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lo-rLA/values-lo-rLA.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lt/values-lt.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lt/values-lt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lv/values-lv.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-lv/values-lv.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mk-rMK/values-mk-rMK.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mk-rMK/values-mk-rMK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ml-rIN/values-ml-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ml-rIN/values-ml-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mn-rMN/values-mn-rMN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mn-rMN/values-mn-rMN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mr-rIN/values-mr-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-mr-rIN/values-mr-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ms-rMY/values-ms-rMY.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ms-rMY/values-ms-rMY.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-my-rMM/values-my-rMM.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-my-rMM/values-my-rMM.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nb-rNO/values-nb-rNO.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nb-rNO/values-nb-rNO.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nb/values-nb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ne-rNP/values-ne-rNP.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ne-rNP/values-ne-rNP.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-nl/values-nl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-no/values-no.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-no/values-no.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pl/values-pl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-port/values-port.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-port/values-port.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt-rPT/values-pt-rPT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-pt/values-pt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-qwerty/values-qwerty.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-qwerty/values-qwerty.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ro-rRO/values-ro-rRO.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ro-rRO/values-ro-rRO.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ro/values-ro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ru/values-ru.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-si-rLK/values-si-rLK.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-si-rLK/values-si-rLK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sk/values-sk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sl/values-sl.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sl/values-sl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sr/values-sr.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sr/values-sr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sv/values-sv.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sw/values-sw.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sw/values-sw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-sw600dp-v13/values-sw600dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ta-rIN/values-ta-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ta-rIN/values-ta-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-te-rIN/values-te-rIN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-te-rIN/values-te-rIN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-th/values-th.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-th/values-th.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tl/values-tl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tr-rTR/values-tr-rTR.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tr-rTR/values-tr-rTR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-tr/values-tr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-uk/values-uk.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-uk/values-uk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ur-rPK/values-ur-rPK.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-ur-rPK/values-ur-rPK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-uz-rUZ/values-uz-rUZ.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-uz-rUZ/values-uz-rUZ.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v11/values-v11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v14/values-v14.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v17/values-v17.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v17/values-v17.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v19/values-v19.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v19/values-v19.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-v21/values-v21.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-vi/values-vi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w360dp-v13/values-w360dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w360dp-v13/values-w360dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w384dp-v13/values-w384dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w384dp-v13/values-w384dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w480dp-v13/values-w480dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w480dp-v13/values-w480dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w500dp-v13/values-w500dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w500dp-v13/values-w500dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w585dp-v13/values-w585dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w585dp-v13/values-w585dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w600dp-v13/values-w600dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w600dp-v13/values-w600dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w720dp-v13/values-w720dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w720dp-v13/values-w720dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w945dp-v13/values-w945dp-v13.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-w945dp-v13/values-w945dp-v13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-xlarge-v4/values-xlarge-v4.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-xlarge-v4/values-xlarge-v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rCN/values-zh-rCN.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rHK/values-zh-rHK.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh-rTW/values-zh-rTW.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zh/values-zh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zu/values-zu.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values-zu/values-zu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values/values.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/free/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/restart-dex/free/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/restart-dex/free/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-free-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-free-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/MemorizingTrustManager/MemorizingTrustManager.iml" afterPath="$PROJECT_DIR$/libs/MemorizingTrustManager/MemorizingTrustManager.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/eu/siacs/conversations/crypto/OtrService.java" afterPath="$PROJECT_DIR$/src/main/java/eu/siacs/conversations/crypto/OtrService.java" />
+    </list>
     <ignored path="Conversations.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,7 +651,7 @@
       <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="160">
               <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding />
             </state>
@@ -108,21 +660,21 @@
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="PushManagementService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="880">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -132,8 +684,18 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+            <state relative-caret-position="364">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OtrService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/crypto/OtrService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -147,7 +709,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Finnegan\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\finne\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -191,11 +753,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prePlaystoreDebugUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v13:25.1.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV132511Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of root project 'Conversations'." />
@@ -320,6 +877,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preFreeDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-iid:10.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid1021Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -514,6 +1076,11 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:10.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm1021Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugResValues" />
               </ExternalTaskPojo>
@@ -589,6 +1156,11 @@
                 <option name="name" value="lintVitalPlaystoreRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:10.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks1021Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in root project 'Conversations'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
@@ -618,6 +1190,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergePlaystoreDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-basement:10.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement1021Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -966,6 +1543,11 @@
                 <option name="name" value="javaPreCompileDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-base:10.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase1021Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare me.leolin:ShortcutBadger:1.1.12" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareMeLeolinShortcutBadger1112Library" />
@@ -1097,11 +1679,6 @@
                 <option name="name" value="transformResourcesWithMergeJavaResForFreeReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:10.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm1001Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareDebugDependencies" />
               </ExternalTaskPojo>
@@ -1188,11 +1765,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugAndroidTestManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-basement:10.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement1001Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1313,6 +1885,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateFreeDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v13:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV132531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1646,16 +2223,6 @@
                 <option name="name" value="processPlaystoreDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-base:10.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase1001Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:10.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks1001Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processFreeDebugResources" />
               </ExternalTaskPojo>
@@ -1847,11 +2414,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateFreeReleaseBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-iid:10.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid1001Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.wefika:flowlayout:0.4.1" />
@@ -3213,6 +3775,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="C:\Users\Finnegan\git\Conversations" value="5968832979997" />
+        <entry key="C:\Users\finne\Documents\Git\Ada" value="5971929730530" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3586,14 +4149,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/siacs/conversations/crypto/OtrService.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -3620,8 +4184,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3630,18 +4196,84 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conversations" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crypto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="84B5T15A10011249" />
+    <property name="device.picker.selection" value="Nexus_6P_API_25" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.last.selected" value="Conversations" />
     <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RunManager" selected="Android App.Conversations">
@@ -3978,29 +4610,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09468884" sideWeight="0.5023392" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09488273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1098081" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09468884" sideWeight="0.49766082" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1097103" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09468884" sideWeight="0.5023392" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4009,6 +4641,24 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -4023,7 +4673,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Conversations first" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conversations first" />
+    <MESSAGE value="gradle upload&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradle upload&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -4039,6 +4690,134 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -4081,7 +4860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="160">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
@@ -4100,16 +4879,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/free/java/eu/siacs/conversations/services/PushManagementService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="880">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/siacs/conversations/crypto/OtrService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+        <state relative-caret-position="364">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>

@@ -1,30 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_normal.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_off_normal.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_normal.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_on_normal.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_normal.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_on_normal.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_normal.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_off_normal.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\elv_ic_action_undo.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable-xhdpi-v4\\elv_ic_action_undo.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\elv_ic_action_undo.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\\output\\res\\drawable-xhdpi-v4\\elv_ic_action_undo.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_pressed.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_off_pressed.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_pressed.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_on_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\elv_toast_frame.9.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\drawable-xhdpi-v4\\elv_toast_frame.9.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\elv_toast_frame.9.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\\output\\res\\drawable-xhdpi-v4\\elv_toast_frame.9.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_disable.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_disable.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_disable.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_disable.png"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_pressed.png",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\4682c6e44be6ab92d9c55b0418074f6b1656c878\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_on_pressed.png"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_pressed.png",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\\output\\res\\drawable-xhdpi-v4\\md_switch_thumb_off_pressed.png"
     }
 ]

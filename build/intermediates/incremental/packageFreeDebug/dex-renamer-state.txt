@@ -1,7 +1,7 @@
-#Tue Apr 11 16:31:30 PDT 2017
-base.0=C\:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_58163ed94afd2f63e88e3e3ea80b2f3d03fb8bfc
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_3c3754e8458332f956528eccb99026c4eb1f0060\\classes.dex
-base.1=C\:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_3c3754e8458332f956528eccb99026c4eb1f0060
-file.0=C\:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_58163ed94afd2f63e88e3e3ea80b2f3d03fb8bfc\\classes.dex
+#Sun Apr 23 15:09:31 PDT 2017
+base.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_42658e6fdaa0bc0638998bc2bb7f52e54699c33b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8c9aaa1ea4411b0db6327133b947c90e371b523\\classes.dex
+base.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8c9aaa1ea4411b0db6327133b947c90e371b523
+file.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_42658e6fdaa0bc0638998bc2bb7f52e54699c33b\\classes.dex

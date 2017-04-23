@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-w480dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-w480dp\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-w480dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-w480dp\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

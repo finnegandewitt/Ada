@@ -1,34 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\elv_popup_hide.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\\output\\res\\anim\\elv_popup_hide.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\elv_popup_hide.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\anim\\elv_popup_hide.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\elv_popup_show.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\anim\\elv_popup_show.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\res\\merged\\free\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\anim\\elv_popup_show.xml",
+        "source": "C:\\Users\\finne\\.android\\build-cache\\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\\output\\res\\anim\\elv_popup_show.xml"
     }
 ]

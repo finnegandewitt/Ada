@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\values-sw600dp\\defaults.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-sw600dp\\defaults.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 107,
+                        "startOffset": 110,
                         "endColumn": 43,
-                        "endOffset": 146
+                        "endOffset": 149
                     }
                 }
             },
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 234
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 293
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 364
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 432
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 487
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\a280393943d96da78387e788e468e80b1fb3ec62\\output\\res\\values-sw600dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-sw600dp\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,13 +144,13 @@
                     "endOffset": 539
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\git\\Conversations\\src\\main\\res\\values-sw600dp\\defaults.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-sw600dp\\defaults.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 51,
-                        "endOffset": 102
+                        "endOffset": 104
                     }
                 }
             }

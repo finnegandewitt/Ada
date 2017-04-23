@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Finnegan\\git\\Conversations\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 102
                 },
                 "from": {
-                    "file": "C:\\Users\\Finnegan\\.android\\build-cache\\7e0c9543204a47194289d317fc7daf62b47a92c4\\output\\res\\values-v19\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\\output\\res\\values-v19\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
