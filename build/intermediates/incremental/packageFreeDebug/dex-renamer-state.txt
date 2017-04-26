@@ -1,4 +1,4 @@
-#Sun Apr 23 15:09:31 PDT 2017
+#Sun Apr 23 18:46:17 PDT 2017
 base.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_42658e6fdaa0bc0638998bc2bb7f52e54699c33b
 renamed.1=classes.dex
 renamed.0=classes2.dex

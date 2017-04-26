@@ -164,6 +164,15 @@
         <dex dex="C:\Users\finne\Documents\Git\Ada\build\intermediates\transforms\dex\free\debug\folders\1000\10\android-integration-3.2.1_16eba8038442cde0fc1031466631d666ed6f76c4\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c9e9dbeeee78ea54b45c5e68e61174ca86cc285">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\pre-dexed\androidTest\debug\classes_b90c235605b11e7cccb471b9c0280c6328d37283.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\finne\.android\build-cache\4cf414ec83899f4a564f61eddbc090339f899a12\output\jars\classes.jar"
         jumboMode="true"
