@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\.android\\build-cache\\4928e28a75d42871dd475f28349b324df24ab274\\output\\res\\values-w720dp\\values.xml",
+                    "file": "C:\\Users\\finne\\.android\\build-cache\\6c2c12a5a22c83cde6f9ef8fea382805916b4192\\output\\res\\values-w720dp\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -1,7 +1,7 @@
-#Sun Apr 23 18:46:17 PDT 2017
-base.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_42658e6fdaa0bc0638998bc2bb7f52e54699c33b
+#Fri Apr 28 16:55:42 PDT 2017
+base.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc78063f3f9b06f5d5a12a9d4dc210c60a378146
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8c9aaa1ea4411b0db6327133b947c90e371b523\\classes.dex
-base.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8c9aaa1ea4411b0db6327133b947c90e371b523
-file.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_42658e6fdaa0bc0638998bc2bb7f52e54699c33b\\classes.dex
+file.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_6cc055e33cdc1f0252eae511eb0347ed0e50a04b\\classes.dex
+base.1=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run_6cc055e33cdc1f0252eae511eb0347ed0e50a04b
+file.0=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc78063f3f9b06f5d5a12a9d4dc210c60a378146\\classes.dex

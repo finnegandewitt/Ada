@@ -632,10 +632,10 @@
 	<string name="share_uri_with">Share URI with…</string>
 	<string translatable="false" name="welcome_header">Welcome to Ada</string>
 	<string name="welcome_text">This app is based very much off the open source app Conversations. This version of it was made by Finnegan Dewitt for his senior project.</string>
-	<string name="magic_create_text">We will guide you through the process of creating an account on conversations.im.¹\nWhen picking conversations.im as a provider you will be able to communicate with users of other providers by giving them your full Jabber ID.</string>
+	<string name="magic_create_text">This will create an account on the domain finnegandewitt.com</string>
 	<string name="your_full_jid_will_be">Your full Jabber ID will be: %s</string>
 	<string name="create_account">Create Account</string>
-	<string name="use_own_provider">Use my own provider</string>
+	<string name="use_own_provider">Log In</string>
 	<string name="pick_your_username">Pick your username</string>
 	<string name="pref_manually_change_presence">Manually change presence</string>
 	<string name="pref_manually_change_presence_summary">Touch your avatar to change your presence</string>

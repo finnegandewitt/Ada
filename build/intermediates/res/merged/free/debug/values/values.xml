@@ -679,7 +679,7 @@
     <string name="file_transmission_failed">file transmission failed</string>
     <string name="file_url">File URL</string>
     <string name="finish">Finish</string>
-    <string name="free_for_six_month">¹ Optional conversations.im account €8/year. 6 month free.</string>
+    <string name="free_for_six_month"/>
     <string name="gp_long">Long</string>
     <string name="gp_medium">Medium</string>
     <string name="gp_short">Short</string>
@@ -728,7 +728,7 @@
     <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
     <string name="load_more_messages">Load more messages</string>
     <string name="location">Location</string>
-    <string name="magic_create_text">We will guide you through the process of creating an account on conversations.im.¹\nWhen picking conversations.im as a provider you will be able to communicate with users of other providers by giving them your full Jabber ID.</string>
+    <string name="magic_create_text">This will create an account on the domain finnegandewitt.com</string>
     <string name="mam_prefs">Archiving preferences</string>
     <string name="manual_verification_explanation">Carefully compare the fingerprint shown below with the fingerprint of your contact.\nYou can use any trusted form of communication like an encrypted e-mail or a telephone call to exchange those.</string>
     <string name="manually_verify">Manually verify</string>
@@ -1162,7 +1162,7 @@
     <string name="updating">Updating…</string>
     <string name="url_copied_to_clipboard">URL copied to clipboard</string>
     <string name="use_camera_icon_to_scan_barcode">Use the camera to scan a contact’s barcode</string>
-    <string name="use_own_provider">Use my own provider</string>
+    <string name="use_own_provider">Log In</string>
     <string name="user_has_left_conference">%s has left the conference!</string>
     <string name="username">Username</string>
     <string name="username_hint">Username</string>

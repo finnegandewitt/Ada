@@ -88,7 +88,6 @@
             android:textColor="?attr/color_text_secondary"
             android:textSize="@dimen/fineprint_size"
             android:maxLines="1"
-            android:text="@string/free_for_six_month"
             android:layout_centerHorizontal="true"/>
     </RelativeLayout>
 </ScrollView>

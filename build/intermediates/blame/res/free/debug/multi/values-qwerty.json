@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-qwerty\\values-qwerty.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-qwerty\\values-qwerty.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 93
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-qwerty\\defaults.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-qwerty\\defaults.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

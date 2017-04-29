@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
+        "outputFile": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 93
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 244
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 2,
@@ -106,7 +106,7 @@
                     "endOffset": 455
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 2,
@@ -125,7 +125,7 @@
                     "endOffset": 515
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 2,
@@ -144,7 +144,7 @@
                     "endOffset": 604
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 2,
@@ -163,7 +163,7 @@
                     "endOffset": 675
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 2,
@@ -182,7 +182,7 @@
                     "endOffset": 765
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 2,
@@ -201,7 +201,7 @@
                     "endOffset": 842
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 2,
@@ -220,7 +220,7 @@
                     "endOffset": 913
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 2,
@@ -239,7 +239,7 @@
                     "endOffset": 976
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 2,
@@ -258,7 +258,7 @@
                     "endOffset": 1037
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -277,7 +277,7 @@
                     "endOffset": 1090
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -296,7 +296,7 @@
                     "endOffset": 1151
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -315,7 +315,7 @@
                     "endOffset": 1217
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
@@ -334,7 +334,7 @@
                     "endOffset": 1289
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -353,7 +353,7 @@
                     "endOffset": 1366
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -372,7 +372,7 @@
                     "endOffset": 1430
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -391,7 +391,7 @@
                     "endOffset": 1500
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -410,7 +410,7 @@
                     "endOffset": 1571
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
@@ -429,7 +429,7 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -448,7 +448,7 @@
                     "endOffset": 1681
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -467,7 +467,7 @@
                     "endOffset": 1738
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -486,7 +486,7 @@
                     "endOffset": 1829
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 2,
@@ -505,7 +505,7 @@
                     "endOffset": 1897
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 2,
@@ -524,7 +524,7 @@
                     "endOffset": 1946
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -543,7 +543,7 @@
                     "endOffset": 2007
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 2,
@@ -562,7 +562,7 @@
                     "endOffset": 2066
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
@@ -581,7 +581,7 @@
                     "endOffset": 2110
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -600,7 +600,7 @@
                     "endOffset": 2194
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -619,7 +619,7 @@
                     "endOffset": 2379
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
@@ -638,7 +638,7 @@
                     "endOffset": 2624
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
@@ -657,7 +657,7 @@
                     "endOffset": 2831
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -676,7 +676,7 @@
                     "endOffset": 2901
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -695,7 +695,7 @@
                     "endOffset": 3015
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
@@ -714,7 +714,7 @@
                     "endOffset": 3075
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
@@ -733,7 +733,7 @@
                     "endOffset": 3129
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 2,
@@ -752,7 +752,7 @@
                     "endOffset": 3187
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 2,
@@ -771,7 +771,7 @@
                     "endOffset": 3240
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 2,
@@ -790,7 +790,7 @@
                     "endOffset": 3328
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 2,
@@ -809,7 +809,7 @@
                     "endOffset": 3407
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
@@ -828,7 +828,7 @@
                     "endOffset": 3476
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 2,
@@ -847,7 +847,7 @@
                     "endOffset": 3574
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 2,
@@ -866,7 +866,7 @@
                     "endOffset": 3666
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 2,
@@ -885,7 +885,7 @@
                     "endOffset": 3928
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 2,
@@ -904,7 +904,7 @@
                     "endOffset": 3973
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
@@ -923,7 +923,7 @@
                     "endOffset": 4069
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 2,
@@ -942,7 +942,7 @@
                     "endOffset": 4112
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -961,7 +961,7 @@
                     "endOffset": 4152
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
@@ -980,7 +980,7 @@
                     "endOffset": 4215
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 2,
@@ -999,7 +999,7 @@
                     "endOffset": 4291
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 2,
@@ -1018,7 +1018,7 @@
                     "endOffset": 4350
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 2,
@@ -1037,7 +1037,7 @@
                     "endOffset": 4408
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 2,
@@ -1056,7 +1056,7 @@
                     "endOffset": 4452
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -1075,7 +1075,7 @@
                     "endOffset": 4500
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -1094,7 +1094,7 @@
                     "endOffset": 4563
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -1113,7 +1113,7 @@
                     "endOffset": 4628
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 2,
@@ -1132,7 +1132,7 @@
                     "endOffset": 4722
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -1151,7 +1151,7 @@
                     "endOffset": 4770
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
@@ -1170,7 +1170,7 @@
                     "endOffset": 4833
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
@@ -1189,7 +1189,7 @@
                     "endOffset": 5191
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
@@ -1208,7 +1208,7 @@
                     "endOffset": 5263
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
@@ -1227,7 +1227,7 @@
                     "endOffset": 5316
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -1246,7 +1246,7 @@
                     "endOffset": 5397
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 2,
@@ -1265,7 +1265,7 @@
                     "endOffset": 5490
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 2,
@@ -1284,7 +1284,7 @@
                     "endOffset": 5553
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
@@ -1303,7 +1303,7 @@
                     "endOffset": 5656
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
@@ -1322,7 +1322,7 @@
                     "endOffset": 5737
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 2,
@@ -1341,7 +1341,7 @@
                     "endOffset": 5817
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
@@ -1360,7 +1360,7 @@
                     "endOffset": 5939
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 2,
@@ -1379,7 +1379,7 @@
                     "endOffset": 6000
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
@@ -1398,7 +1398,7 @@
                     "endOffset": 6095
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
@@ -1417,7 +1417,7 @@
                     "endOffset": 6143
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
@@ -1436,7 +1436,7 @@
                     "endOffset": 6198
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
@@ -1455,7 +1455,7 @@
                     "endOffset": 6306
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
@@ -1474,7 +1474,7 @@
                     "endOffset": 6379
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
@@ -1493,7 +1493,7 @@
                     "endOffset": 6462
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
@@ -1512,7 +1512,7 @@
                     "endOffset": 6557
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -1531,7 +1531,7 @@
                     "endOffset": 6646
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
@@ -1550,7 +1550,7 @@
                     "endOffset": 6724
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -1569,7 +1569,7 @@
                     "endOffset": 6860
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -1588,7 +1588,7 @@
                     "endOffset": 6906
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
@@ -1607,7 +1607,7 @@
                     "endOffset": 6946
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -1626,7 +1626,7 @@
                     "endOffset": 7001
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
@@ -1645,7 +1645,7 @@
                     "endOffset": 7062
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
@@ -1664,7 +1664,7 @@
                     "endOffset": 7112
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
@@ -1683,7 +1683,7 @@
                     "endOffset": 7188
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
@@ -1702,7 +1702,7 @@
                     "endOffset": 7268
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
@@ -1721,7 +1721,7 @@
                     "endOffset": 7353
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 2,
@@ -1740,7 +1740,7 @@
                     "endOffset": 7405
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
@@ -1759,7 +1759,7 @@
                     "endOffset": 7468
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
@@ -1778,7 +1778,7 @@
                     "endOffset": 7514
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -1797,7 +1797,7 @@
                     "endOffset": 7567
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -1816,7 +1816,7 @@
                     "endOffset": 7630
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -1835,7 +1835,7 @@
                     "endOffset": 7685
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
@@ -1854,7 +1854,7 @@
                     "endOffset": 7768
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -1873,7 +1873,7 @@
                     "endOffset": 7835
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -1892,7 +1892,7 @@
                     "endOffset": 7881
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -1911,7 +1911,7 @@
                     "endOffset": 7934
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 2,
@@ -1930,7 +1930,7 @@
                     "endOffset": 8013
                 },
                 "from": {
-                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\src\\main\\res\\values-gl\\strings.xml",
+                    "file": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\values-gl\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,

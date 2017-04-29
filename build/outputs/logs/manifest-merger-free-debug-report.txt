@@ -1,432 +1,432 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:2:1-220:12
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:2:1-220:12
 	package
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:6:5-81
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:7:5-80
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:8:5-72
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:8:5-72
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:8:22-69
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:8:22-69
 uses-permission#android.permission.READ_PROFILE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:9:5-71
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:9:22-68
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:12:5-68
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:12:5-68
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:12:22-65
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:12:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:13:5-81
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:14:5-66
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:14:22-63
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:14:22-63
 uses-permission#android.permission.NFC
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:15:5-62
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:15:5-62
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:15:22-59
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:15:22-59
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:16:5-95
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:16:5-95
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:16:22-92
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:16:22-92
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:18:5-20:31
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:18:5-20:31
 	tools:node
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:20:9-28
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:20:9-28
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:19:9-59
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:19:9-59
 uses-sdk
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:22:5-71
-MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:22:5-71
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [org.sufficientlysecure:openpgp-api:10.0] C:\Users\finne\.android\build-cache\f382b40cdeaf6896bf102d20f57b5d2611ab4202\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\finne\.android\build-cache\95a539c151586a48af549ba75f1e2b5f1bb6aecd\output\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\f1ff5ac239b1d245dbde688d83936212b35d6e53\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\AndroidManifest.xml:21:5-23:55
 MERGED from [de.timroes.android:EnhancedListView:0.3.4] C:\Users\finne\.android\build-cache\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\output\AndroidManifest.xml:8:5-10:41
 MERGED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\finne\.android\build-cache\3bd5c1b709bd6e04f7d83bc590a4a5c937da4bf1\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\finne\.android\build-cache\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\finne\.android\build-cache\4928e28a75d42871dd475f28349b324df24ab274\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\finne\.android\build-cache\6c2c12a5a22c83cde6f9ef8fea382805916b4192\output\AndroidManifest.xml:15:5-42
 MERGED from [com.makeramen:roundedimageview:2.2.0] C:\Users\finne\.android\build-cache\18d06faeba31d9cf14904e36e4c32e204de1e782\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\finne\.android\build-cache\004480032898a04d38ef91e6f5d235e9a2c30f17\output\AndroidManifest.xml:7:5-9:41
 MERGED from [net.ypresto.androidtranscoder:android-transcoder:0.2.0] C:\Users\finne\.android\build-cache\29dc079e439509b6d6406cf145318abe01f06ab9\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\4cf414ec83899f4a564f61eddbc090339f899a12\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\dde98a7a19474776e7fa6d2f0c743c2a2fe47f11\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\65cdc5aa87e6e06c79a81603e5b5270fd28302d6\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\251616a1f0c459526043ecdebc8c9a1025324479\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\a1a8ee40402f9bd8c06e5cee552c80e84853c0b0\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\63faa37e6a3e445c4a04f4a9a2a408d8d0dae5b9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\77d404fe3862400c7a9641fa5903f9099d7e5af0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\861c468872e85877712d24b1ab51587571e00f28\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\9669a60ce0651ea46337b7247d12fed5087d83d8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\dc6300ce2d2add29a012f026836a9a743bf8a4d5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\737e5144d4af5e41a7dfe905e5dde2991536a4c6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\2b5254a635829cea67e6d48c7ebf7739caf78dbe\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:22:15-68
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:22:15-68
 	android:targetSdkVersion
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:25:5-218:19
-MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:25:5-218:19
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
 MERGED from [org.sufficientlysecure:openpgp-api:10.0] C:\Users\finne\.android\build-cache\f382b40cdeaf6896bf102d20f57b5d2611ab4202\output\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\f1ff5ac239b1d245dbde688d83936212b35d6e53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\AndroidManifest.xml:29:5-20
 MERGED from [de.timroes.android:EnhancedListView:0.3.4] C:\Users\finne\.android\build-cache\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\output\AndroidManifest.xml:12:5-13:19
 MERGED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\finne\.android\build-cache\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\output\AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\finne\.android\build-cache\4928e28a75d42871dd475f28349b324df24ab274\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\finne\.android\build-cache\6c2c12a5a22c83cde6f9ef8fea382805916b4192\output\AndroidManifest.xml:16:5-19
 MERGED from [org.whispersystems:curve25519-android:0.2.4] C:\Users\finne\.android\build-cache\0684596c6e31e0ce531e2a88750b105941ed4957\output\AndroidManifest.xml:5:5-20
 MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\finne\.android\build-cache\004480032898a04d38ef91e6f5d235e9a2c30f17\output\AndroidManifest.xml:11:5-20
 MERGED from [net.ypresto.androidtranscoder:android-transcoder:0.2.0] C:\Users\finne\.android\build-cache\29dc079e439509b6d6406cf145318abe01f06ab9\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\4cf414ec83899f4a564f61eddbc090339f899a12\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\dde98a7a19474776e7fa6d2f0c743c2a2fe47f11\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\65cdc5aa87e6e06c79a81603e5b5270fd28302d6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\251616a1f0c459526043ecdebc8c9a1025324479\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\a1a8ee40402f9bd8c06e5cee552c80e84853c0b0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\63faa37e6a3e445c4a04f4a9a2a408d8d0dae5b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\77d404fe3862400c7a9641fa5903f9099d7e5af0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\861c468872e85877712d24b1ab51587571e00f28\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\9669a60ce0651ea46337b7247d12fed5087d83d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\dc6300ce2d2add29a012f026836a9a743bf8a4d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\737e5144d4af5e41a7dfe905e5dde2991536a4c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\2b5254a635829cea67e6d48c7ebf7739caf78dbe\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:29:9-41
-		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:18-56
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:29:9-41
+		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:11:18-56
 		REJECTED from [com.kyleduo.switchbutton:library:1.2.8] C:\Users\finne\.android\build-cache\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\output\AndroidManifest.xml:13:9-41
 	android:allowBackup
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:27:9-35
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:27:9-35
 	android:icon
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:28:9-45
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:28:9-45
 	android:networkSecurityConfig
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:26:9-76
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:26:9-76
 	android:theme
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:30:9-50
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:30:9-50
 	tools:replace
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:31:9-38
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:31:9-38
 service#eu.siacs.conversations.services.XmppConnectionService
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:32:9-67
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:32:9-67
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:32:18-64
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:32:18-64
 receiver#eu.siacs.conversations.services.EventReceiver
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:34:9-41:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:34:9-41:20
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:34:19-57
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:34:19-57
 intent-filter#android.intent.action.ACTION_SHUTDOWN+android.intent.action.BOOT_COMPLETED+android.media.RINGER_MODE_CHANGED+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:35:13-40:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:35:13-40:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:36:17-79
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:36:17-79
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:36:25-76
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:36:25-76
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:37:17-79
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:37:17-79
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:37:25-76
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:37:25-76
 action#android.intent.action.ACTION_SHUTDOWN
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:38:17-80
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:38:17-80
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:38:25-77
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:38:25-77
 action#android.media.RINGER_MODE_CHANGED
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:39:17-76
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:39:17-76
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:39:25-73
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:39:25-73
 activity#eu.siacs.conversations.ui.ConversationActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:43:9-55:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:43:9-55:20
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:45:13-45
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:45:13-45
 	android:minHeight
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:48:13-38
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:48:13-38
 	android:minWidth
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:47:13-37
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:47:13-37
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:46:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:46:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:49:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:49:13-54
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:44:13-52
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:44:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:50:13-54:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:50:13-54:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:51:17-69
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:51:17-69
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:51:25-66
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:51:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:53:17-77
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:53:17-77
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:53:27-74
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:53:27-74
 activity#eu.siacs.conversations.ui.StartConversationActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:56:9-95:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:56:9-95:20
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:58:13-70
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:58:13-70
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:59:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:59:13-44
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:57:13-57
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:57:13-57
 intent-filter#android.intent.action.SENDTO+android.intent.category.DEFAULT
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:60:13-67:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:60:13-67:29
 action#android.intent.action.SENDTO
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:61:17-71
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:61:17-71
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:61:25-68
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:61:25-68
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:63:17-76
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:63:17-76
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:63:27-73
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:63:27-73
 data
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:65:17-47
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:65:17-47
 	android:scheme
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:65:23-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:65:23-44
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:68:13-75:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:68:13-75:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:69:17-69
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:69:17-69
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:69:25-66
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:69:25-66
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:72:17-78
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:72:17-78
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:72:27-75
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:72:27-75
 intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:76:13-82:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:76:13-82:29
 action#android.nfc.action.NDEF_DISCOVERED
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:77:17-77
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:77:17-77
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:77:25-74
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:77:25-74
 activity#eu.siacs.conversations.ui.WelcomeActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:96:9-99:46
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:96:9-99:46
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:98:13-45
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:98:13-45
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:99:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:99:13-44
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:97:13-47
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:97:13-47
 activity#eu.siacs.conversations.ui.MagicCreateActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:100:9-103:46
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:100:9-103:46
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:102:13-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:102:13-51
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:103:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:103:13-44
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:101:13-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:101:13-51
 activity#eu.siacs.conversations.ui.SetPresenceActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:104:9-109:70
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:104:9-109:70
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:107:13-52
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:107:13-52
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:108:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:108:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:109:13-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:109:13-67
 	android:configChanges
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:106:13-59
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:106:13-59
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:105:13-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:105:13-51
 activity#eu.siacs.conversations.ui.SettingsActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:110:9-112:63
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:110:9-112:63
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:112:13-60
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:112:13-60
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:111:13-48
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:111:13-48
 activity#eu.siacs.conversations.ui.ChooseContactActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:113:9-115:69
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:113:9-115:69
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:115:13-66
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:115:13-66
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:114:13-53
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:114:13-53
 activity#eu.siacs.conversations.ui.BlocklistActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:116:9-118:65
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:116:9-118:65
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:118:13-62
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:118:13-62
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:117:13-49
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:117:13-49
 activity#eu.siacs.conversations.ui.ChangePasswordActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:119:9-121:65
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:119:9-121:65
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:121:13-62
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:121:13-62
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:120:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:120:13-54
 activity#eu.siacs.conversations.ui.ManageAccountActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:122:9-125:47
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:122:9-125:47
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:124:13-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:124:13-67
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:125:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:125:13-44
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:123:13-53
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:123:13-53
 activity#eu.siacs.conversations.ui.EditAccountActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:126:9-129:70
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:126:9-129:70
 	android:launchMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:128:13-44
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:128:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:129:13-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:129:13-67
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:127:13-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:127:13-51
 activity#eu.siacs.conversations.ui.ConferenceDetailsActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:130:9-133:57
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:130:9-133:57
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:132:13-70
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:132:13-70
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:133:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:133:13-54
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:131:13-57
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:131:13-57
 activity#eu.siacs.conversations.ui.ContactDetailsActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:134:9-137:57
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:134:9-137:57
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:136:13-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:136:13-67
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:137:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:137:13-54
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:135:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:135:13-54
 activity#eu.siacs.conversations.ui.PublishProfilePictureActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:138:9-141:57
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:138:9-141:57
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:140:13-64
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:140:13-64
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:141:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:141:13-54
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:139:13-61
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:139:13-61
 activity#eu.siacs.conversations.ui.VerifyOTRActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:142:9-145:57
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:142:9-145:57
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:144:13-47
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:144:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:145:13-54
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:145:13-54
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:143:13-49
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:143:13-49
 activity#eu.siacs.conversations.ui.ShareWithActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:146:9-174:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:146:9-174:20
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:148:13-45
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:148:13-45
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:147:13-49
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:147:13-49
 intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:149:13-155:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:149:13-155:29
 action#android.intent.action.SEND
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:150:17-69
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:150:17-69
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:150:25-66
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:150:25-66
 intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:163:13-169:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:163:13-169:29
 action#android.intent.action.SEND_MULTIPLE
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:164:17-78
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:164:17-78
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:164:25-75
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:164:25-75
 meta-data#android.service.chooser.chooser_target_service
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:171:13-173:73
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:171:13-173:73
 	android:value
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:173:17-70
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:173:17-70
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:172:17-78
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:172:17-78
 activity#eu.siacs.conversations.ui.TrustKeysActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:175:9-178:63
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:175:9-178:63
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:177:13-61
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:177:13-61
 	android:windowSoftInputMode
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:178:13-60
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:178:13-60
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:176:13-49
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:176:13-49
 activity#de.duenndns.ssl.MemorizingActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:179:9-182:45
-MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:75
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:179:9-182:45
+MERGED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:75
 	android:theme
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:181:13-54
-		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:14:13-72
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:181:13-54
+		REJECTED from [Conversations.libs:MemorizingTrustManager:unspecified] C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\AndroidManifest.xml:14:13-72
 	tools:replace
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:182:13-42
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:182:13-42
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:180:13-62
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:180:13-62
 activity#eu.siacs.conversations.ui.AboutActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:183:9-190:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:183:9-190:20
 	android:label
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:185:13-57
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:185:13-57
 	android:parentActivityName
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:186:13-62
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:186:13-62
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:184:13-45
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:184:13-45
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:187:13-189:78
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:187:13-189:78
 	android:value
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:189:17-75
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:189:17-75
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:188:17-63
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:188:17-63
 activity#com.soundcloud.android.crop.CropImageActivity
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:191:9-82
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:191:9-82
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:191:19-79
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:191:19-79
 service#eu.siacs.conversations.services.ExportLogsService
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:193:9-63
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:193:9-63
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:193:18-60
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:193:18-60
 service#eu.siacs.conversations.services.ContactChooserTargetService
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:194:9-200:19
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:194:9-200:19
 	android:permission
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:196:13-80
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:196:13-80
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:195:13-65
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:195:13-65
 intent-filter#android.service.chooser.ChooserTargetService
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:197:13-199:29
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:197:13-199:29
 action#android.service.chooser.ChooserTargetService
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:198:17-87
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:198:17-87
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:198:25-84
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:198:25-84
 provider#android.support.v4.content.FileProvider
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:202:9-210:20
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:202:9-210:20
 	android:authorities
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:204:13-57
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:204:13-57
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 	android:grantUriPermissions
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:206:13-47
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:206:13-47
 	android:exported
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:205:13-37
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:205:13-37
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:203:13-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:203:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:207:13-209:54
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:207:13-209:54
 	android:resource
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:209:17-51
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:209:17-51
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:208:17-67
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:208:17-67
 provider#eu.siacs.conversations.services.BarcodeProvider
-ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:211:9-215:49
+ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:211:9-215:49
 	android:authorities
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:212:13-60
-		INJECTED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:212:13-60
+		INJECTED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml
 	android:grantUriPermissions
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:215:13-47
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:215:13-47
 	android:exported
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:214:13-37
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:214:13-37
 	android:name
-		ADDED from C:\Users\finne\Documents\Git\Ada\src\main\AndroidManifest.xml:213:13-53
+		ADDED from C:\Users\finne\Documents\Git\Ada\Ada\src\main\AndroidManifest.xml:213:13-53
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\f1ff5ac239b1d245dbde688d83936212b35d6e53\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\4cf414ec83899f4a564f61eddbc090339f899a12\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\dde98a7a19474776e7fa6d2f0c743c2a2fe47f11\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\65cdc5aa87e6e06c79a81603e5b5270fd28302d6\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\251616a1f0c459526043ecdebc8c9a1025324479\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\a1a8ee40402f9bd8c06e5cee552c80e84853c0b0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\63faa37e6a3e445c4a04f4a9a2a408d8d0dae5b9\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\finne\.android\build-cache\77d404fe3862400c7a9641fa5903f9099d7e5af0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\finne\.android\build-cache\861c468872e85877712d24b1ab51587571e00f28\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\finne\.android\build-cache\9669a60ce0651ea46337b7247d12fed5087d83d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\finne\.android\build-cache\dc6300ce2d2add29a012f026836a9a743bf8a4d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\finne\.android\build-cache\737e5144d4af5e41a7dfe905e5dde2991536a4c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\finne\.android\build-cache\2b5254a635829cea67e6d48c7ebf7739caf78dbe\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\f1ff5ac239b1d245dbde688d83936212b35d6e53\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\f1ff5ac239b1d245dbde688d83936212b35d6e53\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\AndroidManifest.xml:26:9-47
 uses-permission#com.sec.android.provider.badge.permission.READ
 ADDED from [me.leolin:ShortcutBadger:1.1.12] C:\Users\finne\.android\build-cache\3bd5c1b709bd6e04f7d83bc590a4a5c937da4bf1\output\AndroidManifest.xml:19:5-86
 	android:name
