@@ -2,13 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\incremental-classes\free\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.whispersystems\axolotl-java\1.3.4\dba6947dd7f5f712052e1b54f3992b45e7642242\axolotl-java-1.3.4.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="5564ad49e96a5c11fc751a76b4a2b959f7919e9d">
-        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\transforms\dex\free\debug\folders\1000\10000\instant-run-bootstrap_dc78063f3f9b06f5d5a12a9d4dc210c60a378146\classes.dex" />
+        sha1="dba6947dd7f5f712052e1b54f3992b45e7642242">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\axolotl-java-1.3.4_0596c6668f85072f9e2cbecc4e38d99bfd1fba41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcmail-jdk15on\1.52\4995a870400e1554d1c7ed2afcb5d198fae12db9\bcmail-jdk15on-1.52.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4995a870400e1554d1c7ed2afcb5d198fae12db9">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\bcmail-jdk15on-1.52_1a3d1694a5bdd66e6dff1172f2e4ca48ce789cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\f382b40cdeaf6896bf102d20f57b5d2611ab4202\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b2e3602300712aae3ca0a509d1cec3b0045b6f7">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_f2eccdeea63d327e13e2ae9e20f294d37ad1885c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\6e7fe53dae5601469a4c3115a6b5627423196d94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c2ad7bdcaf2c0a22a29897db269c51544c74434">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_380dffedaedbe1b3fcbf71a131f6e6b35ceded09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\dc6300ce2d2add29a012f026836a9a743bf8a4d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_9d70f6451c40110d58779f300c89b2d194bf8070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\Documents\Git\Ada\Ada\libs\MemorizingTrustManager\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54db8cb4de24a92fddbcdcae783d0e8b110ef4eb">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_d586f3179e32e9081269baec73ca5116e65efdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\0684596c6e31e0ce531e2a88750b105941ed4957\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f8070d4d60e8d8cbb1e75243a0085076916473d">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_db0c45eb5522813bf49d503216f92518f37f18b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.52\b8ffac2bbc6626f86909589c8cc63637cc936504\bcpkix-jdk15on-1.52.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8ffac2bbc6626f86909589c8cc63637cc936504">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\bcpkix-jdk15on-1.52_e44f9897c1905ef62a01e62ff37f6a528b2cbd02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.whispersystems\curve25519-java\0.2.4\7fa461e047c17f96ac6c6d85e66bfb399b9ab887\curve25519-java-0.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fa461e047c17f96ac6c6d85e66bfb399b9ab887">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\curve25519-java-0.2.4_0208602b922aca48ce7ef9c77e50276370cbabc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\18d06faeba31d9cf14904e36e4c32e204de1e782\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="149d269764e1ad8d24e18e8cb71cd6b95062f3d1">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_f354ecf6e112108c51efcd1e2744e620df1f4ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\2b5254a635829cea67e6d48c7ebf7739caf78dbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_765bd7890973d6503f475c448e81e9d1bc2acf9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\minidns-0.1.7_e35510da46d2cd0d6c88a14ea6a2c766176f6f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\4099ed4711d5fd5310a0e8d6daf37d4d84ab36df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba391b1093df0505d6f0c56689c28384a4dafcc4">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_a62f1460b7df65d4436c0ab63462230859a656f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\com.google.zxing\android-integration\3.2.1\87a3d7da33a6c633fb1ff30023dbf0d05e8ea74c\android-integration-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87a3d7da33a6c633fb1ff30023dbf0d05e8ea74c">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\android-integration-3.2.1_16eba8038442cde0fc1031466631d666ed6f76c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\protobuf\protobuf-java\2.5.0\protobuf-java-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\protobuf-java-2.5.0_ea9124bfb7ed3ca8671de04a0c6b732c5dd37e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.52\88a941faf9819d371e3174b5ed56a3f3f7d73269\bcprov-jdk15on-1.52.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\bcprov-jdk15on-1.52_965b15ae1b8784b08a3296de1d99f7b92355c237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\4b78cc0f638fd1fd664a6fc193805e25d94f1fbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_119f643c2a8a400156c52dd4a7d87111b2534bb2.jar" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +162,159 @@
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\transforms\dex\free\debug\folders\1000\10000\instant-run_6cc055e33cdc1f0252eae511eb0347ed0e50a04b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\incremental-classes\free\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab2d60702e574356b7bae161d367389332e73cd7">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\transforms\dex\free\debug\folders\1000\10000\instant-run-bootstrap_dc78063f3f9b06f5d5a12a9d4dc210c60a378146\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\support-annotations-25.3.1_9277381d0db0ca0927afb4042e02bd8015bda49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\96ece2950f39aea24f85adbd5e4945a8b65c7f4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cc616134ef0652ce7c534f27dbdc56115d5703c">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_e25731cddc570906d1823bd8006eb242151bae89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.gnu.inet\libidn\1.15\b5bede3c1c031a827b604da31768ddaf833495c6\libidn-1.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5bede3c1c031a827b604da31768ddaf833495c6">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\libidn-1.15_d20469453f472bc41089fa38b1b1d7c51e4bca98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\org.jitsi\org.otr4j\0.22\751feeb838c4a5d3499b55bbe887aebc38a4572b\org.otr4j-0.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751feeb838c4a5d3499b55bbe887aebc38a4572b">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\org.otr4j-0.22_6b7b81b2483c4d5a6184d2a4848aa386c32adce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\77d404fe3862400c7a9641fa5903f9099d7e5af0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_e358008cfe3d1783eadd140fa94dff197c2bacb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\9669a60ce0651ea46337b7247d12fed5087d83d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_63eaeb68bb73857c94d6ffc2eaebc75c85c9fe70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\6c2c12a5a22c83cde6f9ef8fea382805916b4192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_220cd9915e691527e6e670ed1cdfb2696482e359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\737e5144d4af5e41a7dfe905e5dde2991536a4c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_3f5bc2f223519ee302b9345f8b8551f8d0434c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\library-2.4.0_0fe37b560032d8743eceff07590f2e5239812409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\29dc079e439509b6d6406cf145318abe01f06ab9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da1a8e3ba8a4991954d213b26fca8f1d31a83975">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_2f72117304e5a68e38adefcbab3cd67a61692aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\004480032898a04d38ef91e6f5d235e9a2c30f17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27d853ba7379592540b315e43df0abf3d83cf74">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_6be7f1aced2b02f492dc308490f5eb26ba1e92e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\3bd5c1b709bd6e04f7d83bc590a4a5c937da4bf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9a38019c3b10c02d10fcf7942406b6f37c5ab62">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_76fbcf07839f60973e4e913fdb2ec2ee26a2178a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\core-3.2.1_c2d3af8bda64e510651d9433de54539001d20377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\95a539c151586a48af549ba75f1e2b5f1bb6aecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_ded4865d32aeaa1ce144b9b27f0adee94200a785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\finne\.android\build-cache\861c468872e85877712d24b1ab51587571e00f28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\classes_2c4b6dc3662ae583328d10cc8d22062e05b6cb73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\intellij\annotations\12.0\annotations-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="C:\Users\finne\Documents\Git\Ada\Ada\build\intermediates\pre-dexed\free\debug\annotations-12.0_e0fa7c64b47413623bb97d5f6a361b3c347a7145.jar" />
     </item>
 
 </items>

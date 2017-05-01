@@ -1,4 +1,4 @@
-#Fri Apr 28 14:14:07 PDT 2017
+#Sat Apr 29 11:44:15 PDT 2017
 file.9=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10\\classes_e358008cfe3d1783eadd140fa94dff197c2bacb8\\classes.dex
 base.10=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10\\classes_9d70f6451c40110d58779f300c89b2d194bf8070
 file.8=C\:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\transforms\\dex\\free\\debug\\folders\\1000\\10\\minidns-0.1.7_e35510da46d2cd0d6c88a14ea6a2c766176f6f87\\classes.dex

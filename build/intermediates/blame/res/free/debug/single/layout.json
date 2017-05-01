@@ -16,12 +16,12 @@
         "source": "C:\\Users\\finne\\.android\\build-cache\\6c2c12a5a22c83cde6f9ef8fea382805916b4192\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\layout\\activity_start_conversation.xml",
-        "source": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\layout\\activity_start_conversation.xml"
-    },
-    {
         "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\layout\\share_with.xml",
         "source": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\layout\\share_with.xml"
+    },
+    {
+        "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\layout\\activity_start_conversation.xml",
+        "source": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\src\\main\\res\\layout\\activity_start_conversation.xml"
     },
     {
         "merged": "C:\\Users\\finne\\Documents\\Git\\Ada\\Ada\\build\\intermediates\\res\\merged\\free\\debug\\layout\\form_text.xml",

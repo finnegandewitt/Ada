@@ -560,7 +560,7 @@ public class EditAccountActivity extends OmemoActivity implements OnAccountUpdat
 		final MenuItem showQrCode = menu.findItem(R.id.action_show_qr_code);
 		final MenuItem showBlocklist = menu.findItem(R.id.action_show_block_list);
 		final MenuItem showMoreInfo = menu.findItem(R.id.action_server_info_show_more);
-		final MenuItem changePassword = menu.findItem(R.id.action_change_password_on_server);
+		//final MenuItem changePassword = menu.findItem(R.id.action_change_password_on_server);
 		final MenuItem showPassword = menu.findItem(R.id.action_show_password);
 		final MenuItem renewCertificate = menu.findItem(R.id.action_renew_certificate);
 		final MenuItem mamPrefs = menu.findItem(R.id.action_mam_prefs);
@@ -575,16 +575,16 @@ public class EditAccountActivity extends OmemoActivity implements OnAccountUpdat
 				showBlocklist.setVisible(false);
 			}
 
-			if (!mAccount.getXmppConnection().getFeatures().register()) {
-				changePassword.setVisible(false);
-			}
+			//if (!mAccount.getXmppConnection().getFeatures().register()) {
+				//changePassword.setVisible(false);
+			//}
 			mamPrefs.setVisible(mAccount.getXmppConnection().getFeatures().mam());
 			changePresence.setVisible(manuallyChangePresence());
 		} else {
 			showQrCode.setVisible(false);
 			showBlocklist.setVisible(false);
 			showMoreInfo.setVisible(false);
-			changePassword.setVisible(false);
+			//changePassword.setVisible(false);
 			mamPrefs.setVisible(false);
 			changePresence.setVisible(false);
 		}
@@ -733,9 +733,9 @@ public class EditAccountActivity extends OmemoActivity implements OnAccountUpdat
 			case R.id.action_share_uri:
 				shareLink(false);
 				break;
-			case R.id.action_change_password_on_server:
-				gotoChangePassword(null);
-				break;
+		//	case R.id.action_change_password_on_server:
+		//		gotoChangePassword(null);
+		//		break;
 			case R.id.action_mam_prefs:
 				editMamPrefs();
 				break;
